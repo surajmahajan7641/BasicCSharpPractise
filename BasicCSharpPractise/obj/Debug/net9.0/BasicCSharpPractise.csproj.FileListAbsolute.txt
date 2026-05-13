@@ -1,0 +1,14 @@
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\obj\Debug\net9.0\BasicCSharpPractise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\obj\Debug\net9.0\BasicCSharpPractise.AssemblyInfoInputs.cache
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\obj\Debug\net9.0\BasicCSharpPractise.AssemblyInfo.cs
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\obj\Debug\net9.0\BasicCSharpPractise.csproj.CoreCompileInputs.cache
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\bin\Debug\net9.0\BasicCSharpPractise.exe
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\bin\Debug\net9.0\BasicCSharpPractise.deps.json
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\bin\Debug\net9.0\BasicCSharpPractise.runtimeconfig.json
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\bin\Debug\net9.0\BasicCSharpPractise.dll
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\bin\Debug\net9.0\BasicCSharpPractise.pdb
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\obj\Debug\net9.0\BasicCSharpPractise.dll
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\obj\Debug\net9.0\refint\BasicCSharpPractise.dll
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\obj\Debug\net9.0\BasicCSharpPractise.pdb
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\obj\Debug\net9.0\BasicCSharpPractise.genruntimeconfig.cache
+D:\SURAJ\PractiseProject\BasicCSharpPractise\BasicCSharpPractise\obj\Debug\net9.0\ref\BasicCSharpPractise.dll
