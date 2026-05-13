@@ -29,6 +29,15 @@ namespace BasicCSharpPractise
             return a+b;
         }
     }
+    // changes push in New branch
+    public class DerivedAdditionss : MethodOverriding
+    {
+        public override int Addition(int a, int b)
+        {
+            return a+b;
+        }
+    }
+
 
     public class DerivedMultiplication : MethodOverriding
     {
