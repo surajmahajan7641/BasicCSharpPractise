@@ -37,7 +37,15 @@ namespace BasicCSharpPractise
             return a*b*c;
         }
     }
-
+ 
+ // Newly added class
+ public class DerivedMultiplications : MethodOverriding
+    {
+        public override int Mul(int a, int b, int c)
+        {
+            return a*b*c;
+        }
+    }
 
 
 }
